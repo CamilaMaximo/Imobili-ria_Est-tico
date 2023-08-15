@@ -1,0 +1,170 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    background-color: #b0ddfc;
+}
+.top img{
+    width: 250px;
+}
+.navegacao{
+    padding: 10px 30px 30px;
+    font-size:25px;
+    
+}
+a{
+    margin: 0px 20px;
+    color: #1d1d1d;
+}
+
+/* banner*/
+.banner img{
+    width: 100%;
+    border: border-box;  
+}
+.banner{
+    margin: 30px;
+}
+
+/* sobre*/
+.sobre{
+    text-align: center;
+
+}
+.sobre h1{
+    margin-bottom: 5px;
+    color: #1d1d1d;
+}
+.sobre h2{
+    color: #1d80c1;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.sobre p{
+    margin: 30px;
+    padding: 0px 70px;
+    text-align: justify;
+    font-size: 20px;
+}
+.sobre p span{
+    color: #1d80c1;
+    font-weight: bold;
+
+}
+.sobre img{
+    width: 450px;
+}
+
+/* serviços*/
+
+.servicos{
+    background-color: #1d80c1;
+    color: #ffffff;
+    font-size: 22px;
+    padding-left: 24%;
+    padding-top: 40px;
+    
+}   
+.servicos h1{
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center; 
+    padding-bottom: 30px;
+
+}
+.servicosTexto{
+    width: 700px;
+    line-height: 42px;
+    text-align: center;
+    font-size: 22px;
+    
+}
+.servicos p span{
+    color: #fff81b;
+    font-weight: bold;
+}
+
+ .servicosItens {
+    padding-left: 32%;
+    margin: 40px auto;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    line-height: 42px;
+}
+
+
+/* corretores*/
+
+.corretores{
+    text-align: center;
+}
+img{
+   width: 450px ; 
+}
+.corretores h1{
+    color: #1d80c1;
+    font-weight: bold;
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+.corretores span{
+    color: #1d80c1;
+    font-weight: bold;
+}
+.corretores p{
+    margin: 30px;
+    padding: 0px 70px;
+    text-align: justify;
+    font-size: 20px;
+}
+/* contato*/
+
+.contato{
+    text-align: center;
+    background-color: #1d80c1;
+    color: #ffffff;
+    padding: 40px;
+}
+.contato h1{
+    padding: 20px;
+}
+iframe{
+    width: 700px;
+    height: 400px;
+}
+.contato p{
+    font-size: 18px;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: #1d1d1d;
+    width: 900px;
+}
+.contato p span{
+    color: #fff81b;
+    font-weight: bold;
+
+}
+
+.link-contato{
+    margin: 40px auto;
+}
+
+.link-contato ul li{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 2px 5px;
+    line-height: 42px;
+}
