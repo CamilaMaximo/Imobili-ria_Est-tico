@@ -1,6 +1,6 @@
 # Projeto-Imobiliaria
 
-Site stático porem funcional ao clicar nas opções da aba de navegação será direcionado para a informação vinculadada.
+Site estático e funcional. Ao clicar nas opções da aba de navegação será direcionado para a informação vinculadada.
 Primeiro trabalho feito por mim, sem auxílio.
 
 
